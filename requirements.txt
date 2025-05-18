@@ -1,0 +1,10 @@
+flwr
+torch
+torchvision
+numpy
+matplotlib
+Pillow
+h5py
+tqdm
+tensorboard
+torchsummary
